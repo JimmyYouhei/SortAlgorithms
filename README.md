@@ -21,6 +21,6 @@ V.	Note:
 -	The quicksort algorithm is very commonly used algorithms for sorting. However, it is regrettable that I was not able to write the code from the description due to poor understanding of recursion . As a result I had referenced and re-written most of my code from this guide: https://www.youtube.com/watch?v=Fiot5yuwPAg. Then I will not say I mastered the quick sort due to I faced many difficulties when trying to re-write the algorithm without looking back at the guide. I can say only I understood the algorithm’s principal and due to its importance, I have to include it here .
 -	I knew that there are many other sort algorithms . However due to time constraint and I had to move on. As a result, only above algorithms are implemented. And others maybe added later 
 
-VI.	License 
+##	License 
 [MIT License](https://github.com/JimmyYouhei/SortAlgorithms/blob/master/LICENSE)
 
